@@ -1,5 +1,6 @@
 <div align="center">
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height = 250 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceofhell&theme=tokyonight" />
@@ -11,14 +12,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&theme=tokyonight&layout=donut" />
 </a>
 
-# Languages I have experience with:
+# About Me
+
+## Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,flutter,dart,bootstrap,latex,git" />
   </a>
 </p>
 
-# Programs and apps I have experience with:
+## Programs & apps
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,neovim,eclipse,codepen,github,figma,notion,ps,unity,windows,linux,ubuntu" />
