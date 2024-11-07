@@ -1,11 +1,33 @@
 ## Bem-vindo! 👋
 
+<div align="center">
+  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pieceofhell&show_icons=true&theme=transparent" />
+  <img height = 250 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceofhell&theme=tokyonight" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pieceofhell&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&layout=donut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&theme=tokyonight&layout=donut" />
 </a>
+
+# Linguagens que domino:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,flutter,dart,bootstrap,latex,git" />
+  </a>
+</p>
+
+# Programas que possuo experiência:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,neovim,eclipse,codepen,github,figma,notion,ps,unity,windows,linux,ubuntu" />
+  </a>
+</p>
+
+</div>
 
 <!--
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
