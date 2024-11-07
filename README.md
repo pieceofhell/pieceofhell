@@ -7,11 +7,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&layout=donut" />
 </a>
 
-banana
 
+<!--
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 
-<!-- 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg) 
 --!>
 
