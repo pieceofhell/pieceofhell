@@ -1,5 +1,3 @@
-## Bem-vindo! 👋
-
 <div align="center">
   
 
@@ -13,14 +11,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&theme=tokyonight&layout=donut" />
 </a>
 
-# Linguagens que domino:
+# Languages I have experience with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,flutter,dart,bootstrap,latex,git" />
   </a>
 </p>
 
-# Programas que possuo experiência:
+# Programs and apps I have experience with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,neovim,eclipse,codepen,github,figma,notion,ps,unity,windows,linux,ubuntu" />
