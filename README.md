@@ -18,7 +18,7 @@
   </a>
 </p>
 
-# Programs and apps I have experience with
+# Programs and apps I have experience with:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,neovim,eclipse,codepen,github,figma,notion,ps,unity,windows,linux,ubuntu" />
