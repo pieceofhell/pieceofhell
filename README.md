@@ -7,6 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&layout=donut" />
 </a>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=henrique20055)
 
 <!--
 ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
