@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Welcome!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&color=8939AD&pause=1000&center=true&vCenter=true&width=800&height=80&lines=Welcome!+:];These+are+my+overall+GitHub+stats:" alt="Typing SVG" /></a>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height = 250 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pieceofhell&theme=tokyonight" />
