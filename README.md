@@ -26,7 +26,7 @@
 ## Programs & apps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea,codepen,figma,eclipse,notion,github,unity,ps" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea,figma,eclipse,notion,github,unity,codepen,ps" />
   </a>
 </p>
 
