@@ -19,14 +19,14 @@
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,flutter,dart,bootstrap,latex,git" />
+    <img src="https://skillicons.dev/icons?i=java,flutter,latex,cpp,cs,html,css,js,bootstrap,git" />
   </a>
 </p>
 
 ## Programs & apps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,neovim,eclipse,codepen,github,figma,notion,ps,unity,windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim,idea,codepen,figma,eclipse,notion,github,unity,ps" />
   </a>
 </p>
 
