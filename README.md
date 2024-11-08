@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieceofhell&theme=tokyonight&layout=donut" />
 </a>
 
-# About Me
+# Skills
 
 ## Languages
 <p align="center">
